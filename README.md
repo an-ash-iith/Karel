@@ -1,6 +1,4 @@
 # Karel
-Certainly! Here’s a concise summary of Karel’s programming features:
-
 Karel is a simple robot that operates in a rectangular grid-world with vertical avenues (up-down) and horizontal streets (left-right). It understands five basic instructions:
 
     move(): Moves Karel one square in the direction it’s facing. Karel will crash if there’s a wall blocking the way.
